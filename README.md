@@ -1,52 +1,58 @@
 📲 MENSAJES-WHATSAPP 🚀
-Script de Automatización de Envío de Mensajes en WhatsApp Web
+Automatización de Envío de Mensajes en WhatsApp Web
 📄 Descripción
-Este script te permite automatizar el envío de mensajes en WhatsApp Web utilizando Python y la biblioteca pyautogui. Está diseñado para enviar un mensaje repetidamente a un contacto o grupo abierto en tu navegador, sin necesidad de intervención manual.
+Automatiza el envío de mensajes en WhatsApp Web usando Python y la biblioteca pyautogui. Envía un mensaje repetidamente a un contacto o grupo abierto en tu navegador, sin intervención manual.
 
-⚠️ ADVERTENCIA: Utiliza este script de forma responsable y ética. No lo uses para spam ni para enviar mensajes no solicitados. El abuso de este script puede resultar en el bloqueo de tu cuenta de WhatsApp y podría ser ilegal en algunos países. Úsalo solo con el consentimiento del destinatario.
+⚠️ ADVERTENCIA: Usa este script de forma responsable. No lo uses para spam o mensajes no solicitados. El abuso podría resultar en el bloqueo de tu cuenta de WhatsApp.
 
 ✅ Características
-Envío automático de mensajes predefinidos en un chat abierto de WhatsApp Web.
-Configuración personalizada para:
+Envío automático de mensajes en un chat abierto.
+
+Configura:
 Número de mensajes a enviar.
-Intervalo de tiempo entre cada mensaje.
-Fácil de usar y personalizar según tus necesidades.
-Ideal para recordatorios, mensajes de difusión controlada, y otras tareas que no impliquen spam.
+Intervalo de tiempo entre envíos.
+Fácil de usar y personalizar.
+Ideal para recordatorios y mensajes no intrusivos.
+
 📋 Requisitos
-Antes de ejecutar el script, asegúrate de tener instalados:
+Antes de empezar, asegúrate de tener:
 
-Python 3.x
-Puedes descargarlo desde python.org.
-
+Python 3.x 
 Biblioteca pyautogui
-Instálala ejecutando el siguiente comando en tu terminal:
+
+Instálala ejecutando en tu terminal:
 
 pip install pyautogui
 
 🚀 Instalación y Uso
-1. Clonar el repositorio (opcional)
+1. Clonar el Repositorio (opcional)
 
 git clone https://github.com/SantinoArias/whatsapp-mensajes.git
 cd whatsapp-mensajes
 
-2. Abre WhatsApp Web en tu navegador
-Abre https://web.whatsapp.com y escanea el código QR para iniciar sesión.
-Asegúrate de que el chat de destino esté abierto antes de ejecutar el script.
+2. Abre WhatsApp Web
+Abre web.whatsapp.com y escanea el código QR.
+Selecciona el chat al que deseas enviar mensajes.
 
-3. Ejecutar el script
+3. Ejecutar el Script
 
 python WHATSAPP.py
 
-🔧 Personalización del Script
-Puedes modificar el archivo WHATSAPP.py para ajustar:
+🔧 Personalización
 
-El mensaje que deseas enviar.
-El número de repeticiones.
-El intervalo de tiempo entre cada envío.
+Edita WHATSAPP.py para cambiar:
+
+Mensaje a enviar
+Número de repeticiones
+Intervalo de tiempo (en segundos)
+
 🙌 Contribuciones
-¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar este script, no dudes en abrir un issue o enviar un pull request.
+¡Tus aportes son bienvenidos! Si tienes ideas para mejorar este script, abre un issue o envía un pull request.
 
 🧑‍💻 Autor
 Santi Arias
-GitHub
+Visita mi GitHub
+
+Gracias por usar este script 🙌
+Si te ha gustado, ¡dale una estrella al proyecto ⭐ en GitHub!
 
